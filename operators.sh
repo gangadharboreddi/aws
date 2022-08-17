@@ -20,4 +20,4 @@ elif [ $comment -eq satisfy ]; then
 echo "Hi $NAME your selected for this job"
 else
 echo "HI $NAME your not selected for this job"
-fi
+i fi
